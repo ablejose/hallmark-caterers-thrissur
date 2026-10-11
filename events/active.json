@@ -1,0 +1,49 @@
+{
+  "slug": "hallmark-caterers-thrissur",
+  "name": "HALLMARK Caterers",
+  "shortName": "HALLMARK",
+  "descriptor": "Catering Services",
+  "address": "HALLMARK Caterers & Events Near boat jetty, Namkulam temple road Avinissery, Ollur, Thrissur, Keralam 680306",
+  "area": "Avinissery",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680306",
+  "geo": {
+    "lat": 10.4775761,
+    "lng": 76.2281213
+  },
+  "mapsLink": "https://maps.google.com/?cid=497837529464367387",
+  "phone": "+91 99613 54656",
+  "whatsapp": "919961354656",
+  "hours": "Open 8 am – 9 pm · all days",
+  "opens": "08:00",
+  "closes": "21:00",
+  "rating": 3.7,
+  "reviewCount": 31,
+  "reviews": [
+    {
+      "name": "Della Dixon DT",
+      "rating": 4,
+      "quote": "The food served at my cousin's program was really good"
+    },
+    {
+      "name": "SRIYA RIYAJ",
+      "rating": 5,
+      "quote": "I recently hired Hallmark Catering Services for my daughter's birthday party, and I couldn't be more pleased with the experience. From start to finish, Jinto and his team provided exceptional hospitality that truly made the event special."
+    },
+    {
+      "name": "riljo varghese",
+      "rating": 5,
+      "quote": "Hallmark caterers exceeded all expectations at our recent event. The food was delicious and beautifully presented, impressing all of our guests. Their staff was professional, attentive, and ensured everything ran seamlessly. Highly recommended for anyone seeking exceptional catering!”"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://hallmark-caterers-thrissur.vercel.app"
+}
